@@ -46,3 +46,4 @@
 +.googlevideo.com
 +.ggpht.com
 +.googleapis.com
++.elgato.com
